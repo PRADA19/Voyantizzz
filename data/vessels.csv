@@ -1,0 +1,16 @@
+vessel_id,vessel_name,vessel_type,dwt,loa_m,beam_m,draft_m,speed_knots,fuel_consumption_ton_day,daily_charter_rate_usd,availability_date,current_port,lat,lon,owner,status,year_built,flag
+VES-001,MV Ocean Star,Capesize,180000,292.0,45.0,18.2,14.5,38.0,28500,2026-09-14,Port Hedland,-20.31,118.57,SAIL Maritime Chartering,Available,2019,India
+VES-002,MV Eastern Pearl,Capesize,175000,289.0,45.0,17.8,14.2,36.5,27200,2026-09-15,Singapore Hub,1.29,103.85,Oceania Shipping Corp,Available,2021,Panama
+VES-003,MV Pacific Trader,Panamax,82000,229.0,32.2,14.4,13.8,26.0,19500,2026-09-10,Hay Point,-21.28,149.3,Global Bulk Lines,Available,2018,Singapore
+VES-004,MV Visakha Pride,Capesize,182000,295.0,46.0,18.5,14.8,39.5,29000,2026-10-14,Visakhapatnam Outer,17.68,83.21,Indian Maritime Enterprise,In Voyage,2022,India
+VES-005,MV Paradip Pioneer,Panamax,76000,225.0,32.2,13.9,13.5,24.5,18200,2026-09-22,Gladstone,-23.84,151.25,Kalinga Shipping Co,Available,2020,India
+VES-006,MV Iron Express,Capesize,178000,290.0,45.0,18.0,14.3,37.0,27800,2026-09-11,Port Hedland,-20.31,118.57,Iron Range Shipping,Available,2017,Liberia
+VES-007,MV Bengal Glory,Supramax,58000,190.0,32.2,12.8,13.0,21.0,14500,2026-09-15,Samarinda,-0.5,117.15,Eastern Coastal Transport,Available,2016,India
+VES-008,MV Coal Champion,Panamax,81000,229.0,32.2,14.2,13.6,25.5,19100,2026-09-20,Newcastle,-32.92,151.78,Southern Cross Logistics,Available,2021,Marshall Islands
+VES-009,MV Atlantic Titan,Capesize,205000,300.0,50.0,18.8,15.0,42.0,32000,2026-10-11,Tubarao,-20.28,-40.28,Transatlantic Bulk Ltd,Maintenance,2015,Liberia
+VES-010,MV Dhamra Express,Supramax,63000,199.0,32.2,13.1,13.2,22.0,15200,2026-09-17,Dhamra Port,20.8,86.96,Dhamra Coastal Maritime,Available,2023,India
+VES-011,MV Southern Fortune,Panamax,78000,227.0,32.2,14.0,13.5,24.8,18600,2026-10-12,Richards Bay,-28.8,32.03,Indian Ocean Lines,In Voyage,2019,Singapore
+VES-012,MV Kalinga Enterprise,Capesize,176000,290.0,45.0,17.9,14.4,37.5,28000,2026-09-13,Port Hedland,-20.31,118.57,SAIL Dedicated Fleet,Available,2024,India
+VES-013,MV Coromandel Voyager,Handymax,45000,180.0,28.0,11.5,12.5,18.0,12000,2026-09-25,Krishnapatnam,14.25,80.13,Coromandel Bulk Shippers,Available,2018,India
+VES-014,MV Steel Mariner,Capesize,185000,294.0,46.0,18.4,14.6,38.5,29500,2026-09-14,Singapore Anchorage,1.25,103.8,Global Steel Chartering,Available,2020,Panama
+VES-015,MV Ore Challenger,Capesize,172000,288.0,45.0,17.6,14.1,36.0,26800,2026-09-20,Port Hedland,-20.31,118.57,Pacific Ore Transport,Available,2017,Bahamas

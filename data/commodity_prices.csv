@@ -1,0 +1,281 @@
+date,commodity,price_usd_mt
+2024-01-01,Iron Ore 62% Fe CFR China,112.51
+2024-01-01,Coking Coal FOB Australia,192.57
+2024-01-08,Iron Ore 62% Fe CFR China,111.31
+2024-01-08,Coking Coal FOB Australia,193.25
+2024-01-15,Iron Ore 62% Fe CFR China,110.17
+2024-01-15,Coking Coal FOB Australia,193.85
+2024-01-22,Iron Ore 62% Fe CFR China,109.71
+2024-01-22,Coking Coal FOB Australia,195.69
+2024-01-29,Iron Ore 62% Fe CFR China,110.33
+2024-01-29,Coking Coal FOB Australia,196.03
+2024-02-05,Iron Ore 62% Fe CFR China,108.97
+2024-02-05,Coking Coal FOB Australia,194.43
+2024-02-12,Iron Ore 62% Fe CFR China,108.0
+2024-02-12,Coking Coal FOB Australia,193.86
+2024-02-19,Iron Ore 62% Fe CFR China,106.91
+2024-02-19,Coking Coal FOB Australia,195.47
+2024-02-26,Iron Ore 62% Fe CFR China,108.14
+2024-02-26,Coking Coal FOB Australia,193.39
+2024-03-04,Iron Ore 62% Fe CFR China,108.48
+2024-03-04,Coking Coal FOB Australia,192.37
+2024-03-11,Iron Ore 62% Fe CFR China,107.37
+2024-03-11,Coking Coal FOB Australia,190.61
+2024-03-18,Iron Ore 62% Fe CFR China,106.41
+2024-03-18,Coking Coal FOB Australia,191.71
+2024-03-25,Iron Ore 62% Fe CFR China,105.18
+2024-03-25,Coking Coal FOB Australia,193.5
+2024-04-01,Iron Ore 62% Fe CFR China,104.28
+2024-04-01,Coking Coal FOB Australia,196.14
+2024-04-08,Iron Ore 62% Fe CFR China,105.84
+2024-04-08,Coking Coal FOB Australia,196.27
+2024-04-15,Iron Ore 62% Fe CFR China,104.5
+2024-04-15,Coking Coal FOB Australia,194.36
+2024-04-22,Iron Ore 62% Fe CFR China,104.54
+2024-04-22,Coking Coal FOB Australia,192.69
+2024-04-29,Iron Ore 62% Fe CFR China,103.69
+2024-04-29,Coking Coal FOB Australia,191.5
+2024-05-06,Iron Ore 62% Fe CFR China,102.52
+2024-05-06,Coking Coal FOB Australia,189.27
+2024-05-13,Iron Ore 62% Fe CFR China,102.61
+2024-05-13,Coking Coal FOB Australia,187.14
+2024-05-20,Iron Ore 62% Fe CFR China,102.41
+2024-05-20,Coking Coal FOB Australia,188.52
+2024-05-27,Iron Ore 62% Fe CFR China,101.62
+2024-05-27,Coking Coal FOB Australia,187.26
+2024-06-03,Iron Ore 62% Fe CFR China,100.35
+2024-06-03,Coking Coal FOB Australia,187.8
+2024-06-10,Iron Ore 62% Fe CFR China,100.74
+2024-06-10,Coking Coal FOB Australia,186.23
+2024-06-17,Iron Ore 62% Fe CFR China,100.35
+2024-06-17,Coking Coal FOB Australia,185.13
+2024-06-24,Iron Ore 62% Fe CFR China,99.72
+2024-06-24,Coking Coal FOB Australia,183.21
+2024-07-01,Iron Ore 62% Fe CFR China,98.9
+2024-07-01,Coking Coal FOB Australia,182.24
+2024-07-08,Iron Ore 62% Fe CFR China,100.21
+2024-07-08,Coking Coal FOB Australia,182.75
+2024-07-15,Iron Ore 62% Fe CFR China,100.32
+2024-07-15,Coking Coal FOB Australia,184.73
+2024-07-22,Iron Ore 62% Fe CFR China,98.87
+2024-07-22,Coking Coal FOB Australia,184.46
+2024-07-29,Iron Ore 62% Fe CFR China,98.06
+2024-07-29,Coking Coal FOB Australia,186.78
+2024-08-05,Iron Ore 62% Fe CFR China,97.85
+2024-08-05,Coking Coal FOB Australia,184.51
+2024-08-12,Iron Ore 62% Fe CFR China,97.67
+2024-08-12,Coking Coal FOB Australia,184.06
+2024-08-19,Iron Ore 62% Fe CFR China,97.71
+2024-08-19,Coking Coal FOB Australia,181.99
+2024-08-26,Iron Ore 62% Fe CFR China,96.88
+2024-08-26,Coking Coal FOB Australia,181.36
+2024-09-02,Iron Ore 62% Fe CFR China,97.46
+2024-09-02,Coking Coal FOB Australia,179.7
+2024-09-09,Iron Ore 62% Fe CFR China,98.99
+2024-09-09,Coking Coal FOB Australia,179.61
+2024-09-16,Iron Ore 62% Fe CFR China,100.19
+2024-09-16,Coking Coal FOB Australia,180.37
+2024-09-23,Iron Ore 62% Fe CFR China,99.88
+2024-09-23,Coking Coal FOB Australia,181.46
+2024-09-30,Iron Ore 62% Fe CFR China,100.54
+2024-09-30,Coking Coal FOB Australia,182.15
+2024-10-07,Iron Ore 62% Fe CFR China,100.97
+2024-10-07,Coking Coal FOB Australia,181.39
+2024-10-14,Iron Ore 62% Fe CFR China,100.6
+2024-10-14,Coking Coal FOB Australia,179.16
+2024-10-21,Iron Ore 62% Fe CFR China,100.23
+2024-10-21,Coking Coal FOB Australia,180.03
+2024-10-28,Iron Ore 62% Fe CFR China,99.16
+2024-10-28,Coking Coal FOB Australia,179.27
+2024-11-04,Iron Ore 62% Fe CFR China,99.99
+2024-11-04,Coking Coal FOB Australia,181.3
+2024-11-11,Iron Ore 62% Fe CFR China,99.49
+2024-11-11,Coking Coal FOB Australia,183.47
+2024-11-18,Iron Ore 62% Fe CFR China,99.14
+2024-11-18,Coking Coal FOB Australia,183.32
+2024-11-25,Iron Ore 62% Fe CFR China,99.29
+2024-11-25,Coking Coal FOB Australia,185.11
+2024-12-02,Iron Ore 62% Fe CFR China,99.88
+2024-12-02,Coking Coal FOB Australia,186.22
+2024-12-09,Iron Ore 62% Fe CFR China,101.12
+2024-12-09,Coking Coal FOB Australia,184.17
+2024-12-16,Iron Ore 62% Fe CFR China,99.86
+2024-12-16,Coking Coal FOB Australia,182.53
+2024-12-23,Iron Ore 62% Fe CFR China,98.99
+2024-12-23,Coking Coal FOB Australia,184.98
+2024-12-30,Iron Ore 62% Fe CFR China,100.38
+2024-12-30,Coking Coal FOB Australia,184.95
+2025-01-06,Iron Ore 62% Fe CFR China,99.47
+2025-01-06,Coking Coal FOB Australia,182.56
+2025-01-13,Iron Ore 62% Fe CFR China,99.01
+2025-01-13,Coking Coal FOB Australia,183.07
+2025-01-20,Iron Ore 62% Fe CFR China,99.57
+2025-01-20,Coking Coal FOB Australia,183.33
+2025-01-27,Iron Ore 62% Fe CFR China,100.86
+2025-01-27,Coking Coal FOB Australia,182.42
+2025-02-03,Iron Ore 62% Fe CFR China,100.25
+2025-02-03,Coking Coal FOB Australia,184.32
+2025-02-10,Iron Ore 62% Fe CFR China,100.67
+2025-02-10,Coking Coal FOB Australia,182.65
+2025-02-17,Iron Ore 62% Fe CFR China,101.36
+2025-02-17,Coking Coal FOB Australia,184.86
+2025-02-24,Iron Ore 62% Fe CFR China,102.94
+2025-02-24,Coking Coal FOB Australia,185.34
+2025-03-03,Iron Ore 62% Fe CFR China,103.63
+2025-03-03,Coking Coal FOB Australia,186.31
+2025-03-10,Iron Ore 62% Fe CFR China,105.16
+2025-03-10,Coking Coal FOB Australia,186.58
+2025-03-17,Iron Ore 62% Fe CFR China,106.04
+2025-03-17,Coking Coal FOB Australia,189.01
+2025-03-24,Iron Ore 62% Fe CFR China,106.23
+2025-03-24,Coking Coal FOB Australia,189.15
+2025-03-31,Iron Ore 62% Fe CFR China,107.74
+2025-03-31,Coking Coal FOB Australia,190.57
+2025-04-07,Iron Ore 62% Fe CFR China,108.5
+2025-04-07,Coking Coal FOB Australia,192.87
+2025-04-14,Iron Ore 62% Fe CFR China,107.12
+2025-04-14,Coking Coal FOB Australia,193.89
+2025-04-21,Iron Ore 62% Fe CFR China,106.31
+2025-04-21,Coking Coal FOB Australia,193.25
+2025-04-28,Iron Ore 62% Fe CFR China,106.44
+2025-04-28,Coking Coal FOB Australia,194.81
+2025-05-05,Iron Ore 62% Fe CFR China,107.57
+2025-05-05,Coking Coal FOB Australia,195.83
+2025-05-12,Iron Ore 62% Fe CFR China,107.59
+2025-05-12,Coking Coal FOB Australia,196.47
+2025-05-19,Iron Ore 62% Fe CFR China,107.32
+2025-05-19,Coking Coal FOB Australia,197.69
+2025-05-26,Iron Ore 62% Fe CFR China,106.89
+2025-05-26,Coking Coal FOB Australia,196.79
+2025-06-02,Iron Ore 62% Fe CFR China,108.14
+2025-06-02,Coking Coal FOB Australia,198.15
+2025-06-09,Iron Ore 62% Fe CFR China,108.9
+2025-06-09,Coking Coal FOB Australia,200.32
+2025-06-16,Iron Ore 62% Fe CFR China,109.26
+2025-06-16,Coking Coal FOB Australia,198.57
+2025-06-23,Iron Ore 62% Fe CFR China,108.79
+2025-06-23,Coking Coal FOB Australia,200.92
+2025-06-30,Iron Ore 62% Fe CFR China,109.28
+2025-06-30,Coking Coal FOB Australia,199.84
+2025-07-07,Iron Ore 62% Fe CFR China,110.61
+2025-07-07,Coking Coal FOB Australia,198.37
+2025-07-14,Iron Ore 62% Fe CFR China,111.66
+2025-07-14,Coking Coal FOB Australia,197.45
+2025-07-21,Iron Ore 62% Fe CFR China,110.86
+2025-07-21,Coking Coal FOB Australia,199.06
+2025-07-28,Iron Ore 62% Fe CFR China,111.33
+2025-07-28,Coking Coal FOB Australia,197.21
+2025-08-04,Iron Ore 62% Fe CFR China,112.64
+2025-08-04,Coking Coal FOB Australia,198.06
+2025-08-11,Iron Ore 62% Fe CFR China,114.15
+2025-08-11,Coking Coal FOB Australia,198.67
+2025-08-18,Iron Ore 62% Fe CFR China,113.45
+2025-08-18,Coking Coal FOB Australia,199.74
+2025-08-25,Iron Ore 62% Fe CFR China,114.22
+2025-08-25,Coking Coal FOB Australia,197.33
+2025-09-01,Iron Ore 62% Fe CFR China,114.15
+2025-09-01,Coking Coal FOB Australia,198.44
+2025-09-08,Iron Ore 62% Fe CFR China,114.62
+2025-09-08,Coking Coal FOB Australia,200.9
+2025-09-15,Iron Ore 62% Fe CFR China,113.36
+2025-09-15,Coking Coal FOB Australia,199.41
+2025-09-22,Iron Ore 62% Fe CFR China,112.38
+2025-09-22,Coking Coal FOB Australia,198.59
+2025-09-29,Iron Ore 62% Fe CFR China,111.72
+2025-09-29,Coking Coal FOB Australia,199.72
+2025-10-06,Iron Ore 62% Fe CFR China,110.67
+2025-10-06,Coking Coal FOB Australia,197.93
+2025-10-13,Iron Ore 62% Fe CFR China,112.02
+2025-10-13,Coking Coal FOB Australia,196.28
+2025-10-20,Iron Ore 62% Fe CFR China,112.99
+2025-10-20,Coking Coal FOB Australia,196.68
+2025-10-27,Iron Ore 62% Fe CFR China,113.7
+2025-10-27,Coking Coal FOB Australia,197.83
+2025-11-03,Iron Ore 62% Fe CFR China,112.56
+2025-11-03,Coking Coal FOB Australia,196.02
+2025-11-10,Iron Ore 62% Fe CFR China,111.49
+2025-11-10,Coking Coal FOB Australia,195.81
+2025-11-17,Iron Ore 62% Fe CFR China,110.52
+2025-11-17,Coking Coal FOB Australia,194.9
+2025-11-24,Iron Ore 62% Fe CFR China,111.17
+2025-11-24,Coking Coal FOB Australia,195.98
+2025-12-01,Iron Ore 62% Fe CFR China,110.99
+2025-12-01,Coking Coal FOB Australia,197.44
+2025-12-08,Iron Ore 62% Fe CFR China,110.83
+2025-12-08,Coking Coal FOB Australia,195.97
+2025-12-15,Iron Ore 62% Fe CFR China,110.78
+2025-12-15,Coking Coal FOB Australia,198.19
+2025-12-22,Iron Ore 62% Fe CFR China,109.58
+2025-12-22,Coking Coal FOB Australia,196.33
+2025-12-29,Iron Ore 62% Fe CFR China,110.16
+2025-12-29,Coking Coal FOB Australia,193.99
+2026-01-05,Iron Ore 62% Fe CFR China,110.46
+2026-01-05,Coking Coal FOB Australia,193.32
+2026-01-12,Iron Ore 62% Fe CFR China,110.52
+2026-01-12,Coking Coal FOB Australia,191.17
+2026-01-19,Iron Ore 62% Fe CFR China,111.24
+2026-01-19,Coking Coal FOB Australia,193.69
+2026-01-26,Iron Ore 62% Fe CFR China,111.99
+2026-01-26,Coking Coal FOB Australia,195.99
+2026-02-02,Iron Ore 62% Fe CFR China,112.66
+2026-02-02,Coking Coal FOB Australia,194.46
+2026-02-09,Iron Ore 62% Fe CFR China,114.2
+2026-02-09,Coking Coal FOB Australia,194.16
+2026-02-16,Iron Ore 62% Fe CFR China,113.67
+2026-02-16,Coking Coal FOB Australia,194.08
+2026-02-23,Iron Ore 62% Fe CFR China,113.07
+2026-02-23,Coking Coal FOB Australia,195.34
+2026-03-02,Iron Ore 62% Fe CFR China,112.98
+2026-03-02,Coking Coal FOB Australia,196.67
+2026-03-09,Iron Ore 62% Fe CFR China,112.74
+2026-03-09,Coking Coal FOB Australia,199.29
+2026-03-16,Iron Ore 62% Fe CFR China,113.73
+2026-03-16,Coking Coal FOB Australia,201.67
+2026-03-23,Iron Ore 62% Fe CFR China,114.32
+2026-03-23,Coking Coal FOB Australia,201.23
+2026-03-30,Iron Ore 62% Fe CFR China,114.04
+2026-03-30,Coking Coal FOB Australia,202.35
+2026-04-06,Iron Ore 62% Fe CFR China,113.06
+2026-04-06,Coking Coal FOB Australia,201.74
+2026-04-13,Iron Ore 62% Fe CFR China,112.82
+2026-04-13,Coking Coal FOB Australia,200.45
+2026-04-20,Iron Ore 62% Fe CFR China,113.69
+2026-04-20,Coking Coal FOB Australia,201.04
+2026-04-27,Iron Ore 62% Fe CFR China,113.29
+2026-04-27,Coking Coal FOB Australia,202.0
+2026-05-04,Iron Ore 62% Fe CFR China,112.25
+2026-05-04,Coking Coal FOB Australia,201.87
+2026-05-11,Iron Ore 62% Fe CFR China,113.67
+2026-05-11,Coking Coal FOB Australia,199.52
+2026-05-18,Iron Ore 62% Fe CFR China,112.26
+2026-05-18,Coking Coal FOB Australia,197.95
+2026-05-25,Iron Ore 62% Fe CFR China,112.69
+2026-05-25,Coking Coal FOB Australia,199.41
+2026-06-01,Iron Ore 62% Fe CFR China,112.63
+2026-06-01,Coking Coal FOB Australia,198.43
+2026-06-08,Iron Ore 62% Fe CFR China,113.64
+2026-06-08,Coking Coal FOB Australia,198.74
+2026-06-15,Iron Ore 62% Fe CFR China,114.87
+2026-06-15,Coking Coal FOB Australia,196.86
+2026-06-22,Iron Ore 62% Fe CFR China,113.48
+2026-06-22,Coking Coal FOB Australia,195.28
+2026-06-29,Iron Ore 62% Fe CFR China,112.49
+2026-06-29,Coking Coal FOB Australia,195.02
+2026-07-06,Iron Ore 62% Fe CFR China,112.75
+2026-07-06,Coking Coal FOB Australia,195.07
+2026-07-13,Iron Ore 62% Fe CFR China,113.0
+2026-07-13,Coking Coal FOB Australia,193.39
+2026-07-20,Iron Ore 62% Fe CFR China,112.67
+2026-07-20,Coking Coal FOB Australia,194.4
+2026-07-27,Iron Ore 62% Fe CFR China,113.0
+2026-07-27,Coking Coal FOB Australia,192.57
+2026-08-03,Iron Ore 62% Fe CFR China,113.87
+2026-08-03,Coking Coal FOB Australia,193.32
+2026-08-10,Iron Ore 62% Fe CFR China,113.65
+2026-08-10,Coking Coal FOB Australia,191.11
+2026-08-17,Iron Ore 62% Fe CFR China,112.41
+2026-08-17,Coking Coal FOB Australia,192.19
+2026-08-24,Iron Ore 62% Fe CFR China,112.58
+2026-08-24,Coking Coal FOB Australia,189.89
+2026-08-31,Iron Ore 62% Fe CFR China,112.39
+2026-08-31,Coking Coal FOB Australia,187.49

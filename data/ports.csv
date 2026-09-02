@@ -1,0 +1,15 @@
+port_id,port_name,country,is_sail_destination,lat,lon,max_draft_m,max_loa_m,max_beam_m,handling_rate_mt_day,congestion_index,berth_capacity,avg_waiting_hours,port_charges_usd
+PORT-IN-01,Visakhapatnam,India,True,17.68,83.21,14.5,290.0,45.0,35000,62.5,12,18.5,18500
+PORT-IN-02,Paradip,India,True,20.26,86.67,14.5,290.0,45.0,32000,71.0,10,24.0,21000
+PORT-IN-03,Haldia,India,True,22.02,88.06,11.2,230.0,32.2,18000,84.0,6,42.0,24500
+PORT-IN-04,Dhamra,India,True,20.8,86.96,18.0,310.0,48.0,45000,38.0,8,8.5,16000
+PORT-IN-05,Krishnapatnam,India,True,14.25,80.13,16.5,295.0,46.0,38000,45.0,8,12.0,17500
+PORT-IN-06,Chennai,India,False,13.08,80.27,13.5,240.0,35.0,22000,58.0,14,20.0,19000
+PORT-IN-07,Tuticorin,India,False,8.76,78.13,12.8,230.0,32.2,20000,41.0,7,11.0,15500
+PORT-OS-01,Port Hedland,Australia,False,-20.31,118.57,19.5,330.0,55.0,85000,52.0,24,14.0,32000
+PORT-OS-02,Hay Point,Australia,False,-21.28,149.3,17.5,300.0,50.0,65000,48.0,16,12.5,28000
+PORT-OS-03,Newcastle,Australia,False,-32.92,151.78,15.2,275.0,47.0,55000,66.0,18,22.0,26000
+PORT-OS-04,Gladstone,Australia,False,-23.84,151.25,16.0,285.0,48.0,58000,44.0,14,10.0,25000
+PORT-OS-05,Richards Bay,South Africa,False,-28.8,32.03,17.5,300.0,48.0,52000,59.0,15,19.0,24000
+PORT-OS-06,Samarinda,Indonesia,False,-0.5,117.15,13.0,210.0,33.0,25000,63.0,10,21.0,14000
+PORT-OS-07,Tubarao,Brazil,False,-20.28,-40.28,20.0,340.0,56.0,90000,40.0,20,9.0,35000

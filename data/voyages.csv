@@ -1,0 +1,151 @@
+voyage_id,vessel_id,vessel_name,cargo_type,quantity_mt,origin,destination,distance_nm,duration_days,waiting_time_hours,freight_rate_usd_mt,total_cost_inr,status,completion_date
+VOY-2026-1001,VES-002,MV Bulk Carrier 1,Iron Ore,150000,Hay Point,Dhamra,4500,13.7,32.6,28.97,364686574.0,Completed,2026-08-21
+VOY-2026-1002,VES-003,MV Bulk Carrier 2,Thermal Coal,75000,Samarinda,Visakhapatnam,2200,7.7,8.0,28.38,180826741.0,Completed,2026-08-17
+VOY-2026-1003,VES-004,MV Bulk Carrier 3,Iron Ore,82000,Samarinda,Haldia,2200,8.5,32.5,29.99,207165634.0,Completed,2026-08-13
+VOY-2026-1004,VES-005,MV Bulk Carrier 4,Limestone,180000,Port Hedland,Haldia,4500,14.6,28.7,17.77,267704928.0,Completed,2026-08-09
+VOY-2026-1005,VES-006,MV Bulk Carrier 5,Iron Ore,180000,Newcastle,Visakhapatnam,4500,15.8,8.2,30.09,452027313.0,Completed,2026-08-05
+VOY-2026-1006,VES-007,MV Bulk Carrier 6,Iron Ore,150000,Richards Bay,Visakhapatnam,4800,16.8,32.8,22.33,281969406.0,Completed,2026-08-01
+VOY-2026-1007,VES-008,MV Bulk Carrier 7,Limestone,58000,Hay Point,Visakhapatnam,4500,15.1,11.7,27.27,135467702.0,Completed,2026-07-28
+VOY-2026-1008,VES-009,MV Bulk Carrier 8,Thermal Coal,58000,Tubarao,Dhamra,11500,36.3,17.8,29.28,143414690.0,Completed,2026-07-24
+VOY-2026-1009,VES-010,MV Bulk Carrier 9,Thermal Coal,82000,Port Hedland,Haldia,4500,16.0,24.8,18.39,127239547.0,Completed,2026-07-20
+VOY-2026-1010,VES-011,MV Bulk Carrier 10,Coking Coal,82000,Tubarao,Dhamra,11500,34.3,9.5,23.01,161290692.0,Completed,2026-07-16
+VOY-2026-1011,VES-012,MV Bulk Carrier 11,Thermal Coal,180000,Port Hedland,Krishnapatnam,4500,14.9,17.4,22.58,340135088.0,Completed,2026-07-12
+VOY-2026-1012,VES-013,MV Bulk Carrier 12,Limestone,150000,Newcastle,Paradip,4500,14.5,10.5,16.46,207958374.0,Completed,2026-07-08
+VOY-2026-1013,VES-014,MV Bulk Carrier 13,Limestone,82000,Richards Bay,Paradip,4800,16.2,30.6,31.42,217905724.0,Completed,2026-07-04
+VOY-2026-1014,VES-015,MV Bulk Carrier 14,Limestone,150000,Richards Bay,Paradip,4800,15.2,33.1,23.54,297774365.0,Completed,2026-06-30
+VOY-2026-1015,VES-001,MV Bulk Carrier 15,Coking Coal,180000,Port Hedland,Haldia,4500,16.1,35.2,17.15,259491125.0,Completed,2026-06-26
+VOY-2026-1016,VES-002,MV Bulk Carrier 16,Limestone,150000,Hay Point,Paradip,4500,14.0,33.3,16.48,208845093.0,Completed,2026-06-22
+VOY-2026-1017,VES-003,MV Bulk Carrier 17,Thermal Coal,58000,Newcastle,Krishnapatnam,4500,15.5,29.6,24.99,124646917.0,Completed,2026-06-18
+VOY-2026-1018,VES-004,MV Bulk Carrier 18,Iron Ore,150000,Samarinda,Paradip,2200,8.3,28.8,30.72,386152051.0,Completed,2026-06-14
+VOY-2026-1019,VES-005,MV Bulk Carrier 19,Iron Ore,82000,Newcastle,Krishnapatnam,4500,14.9,13.9,24.72,171663460.0,Completed,2026-06-10
+VOY-2026-1020,VES-006,MV Bulk Carrier 20,Coking Coal,150000,Newcastle,Haldia,4500,15.6,26.8,21.73,275175373.0,Completed,2026-06-06
+VOY-2026-1021,VES-007,MV Bulk Carrier 21,Coking Coal,75000,Port Hedland,Haldia,4500,14.9,6.6,20.29,130833790.0,Completed,2026-06-02
+VOY-2026-1022,VES-008,MV Bulk Carrier 22,Iron Ore,75000,Hay Point,Paradip,4500,15.6,29.2,19.58,125135818.0,Completed,2026-05-29
+VOY-2026-1023,VES-009,MV Bulk Carrier 23,Iron Ore,58000,Hay Point,Haldia,4500,15.8,28.2,29.74,147631412.0,Completed,2026-05-25
+VOY-2026-1024,VES-010,MV Bulk Carrier 24,Coking Coal,58000,Port Hedland,Dhamra,4500,14.4,29.4,29.95,146266144.0,Completed,2026-05-21
+VOY-2026-1025,VES-011,MV Bulk Carrier 25,Coking Coal,180000,Hay Point,Visakhapatnam,4500,15.2,33.5,19.66,298190919.0,Completed,2026-05-17
+VOY-2026-1026,VES-012,MV Bulk Carrier 26,Limestone,82000,Tubarao,Visakhapatnam,11500,35.0,20.7,18.02,127255562.0,Completed,2026-05-13
+VOY-2026-1027,VES-013,MV Bulk Carrier 27,Thermal Coal,150000,Newcastle,Paradip,4500,14.0,30.9,19.85,250292197.0,Completed,2026-05-09
+VOY-2026-1028,VES-014,MV Bulk Carrier 28,Coking Coal,75000,Richards Bay,Paradip,4800,15.5,26.3,26.08,165887844.0,Completed,2026-05-05
+VOY-2026-1029,VES-015,MV Bulk Carrier 29,Iron Ore,75000,Samarinda,Paradip,2200,8.0,6.3,25.34,162570515.0,Completed,2026-05-01
+VOY-2026-1030,VES-001,MV Bulk Carrier 30,Thermal Coal,75000,Samarinda,Haldia,2200,7.6,12.5,26.51,169497682.0,Completed,2026-04-27
+VOY-2026-1031,VES-002,MV Bulk Carrier 31,Limestone,75000,Richards Bay,Visakhapatnam,4800,17.4,35.0,24.54,156542818.0,Completed,2026-04-23
+VOY-2026-1032,VES-003,MV Bulk Carrier 32,Thermal Coal,75000,Newcastle,Visakhapatnam,4500,14.7,14.3,29.65,187354691.0,Completed,2026-04-19
+VOY-2026-1033,VES-004,MV Bulk Carrier 33,Thermal Coal,58000,Hay Point,Paradip,4500,14.5,7.7,21.87,108240937.0,Completed,2026-04-15
+VOY-2026-1034,VES-005,MV Bulk Carrier 34,Coking Coal,82000,Tubarao,Visakhapatnam,11500,36.3,13.8,21.88,153125476.0,Completed,2026-04-11
+VOY-2026-1035,VES-006,MV Bulk Carrier 35,Coking Coal,75000,Newcastle,Paradip,4500,14.8,20.3,23.62,151570758.0,Completed,2026-04-07
+VOY-2026-1036,VES-007,MV Bulk Carrier 36,Coking Coal,58000,Newcastle,Visakhapatnam,4500,15.3,27.8,27.97,137196785.0,Completed,2026-04-03
+VOY-2026-1037,VES-008,MV Bulk Carrier 37,Thermal Coal,82000,Tubarao,Visakhapatnam,11500,36.8,32.1,28.4,196284351.0,Completed,2026-03-30
+VOY-2026-1038,VES-009,MV Bulk Carrier 38,Thermal Coal,58000,Richards Bay,Dhamra,4800,15.3,7.6,24.87,123586144.0,Completed,2026-03-26
+VOY-2026-1039,VES-010,MV Bulk Carrier 39,Limestone,82000,Hay Point,Krishnapatnam,4500,15.7,21.9,15.92,112914239.0,Completed,2026-03-22
+VOY-2026-1040,VES-011,MV Bulk Carrier 40,Coking Coal,82000,Hay Point,Dhamra,4500,15.1,33.2,17.43,123215762.0,Completed,2026-03-18
+VOY-2026-1041,VES-012,MV Bulk Carrier 41,Coking Coal,150000,Port Hedland,Haldia,4500,15.9,15.4,15.08,190566584.0,Completed,2026-03-14
+VOY-2026-1042,VES-013,MV Bulk Carrier 42,Coking Coal,58000,Richards Bay,Paradip,4800,16.2,8.6,22.37,110977409.0,Completed,2026-03-10
+VOY-2026-1043,VES-014,MV Bulk Carrier 43,Limestone,150000,Samarinda,Haldia,2200,8.3,27.9,30.16,379762543.0,Completed,2026-03-06
+VOY-2026-1044,VES-015,MV Bulk Carrier 44,Coking Coal,75000,Port Hedland,Visakhapatnam,4500,14.3,26.8,20.31,128737875.0,Completed,2026-03-02
+VOY-2026-1045,VES-001,MV Bulk Carrier 45,Thermal Coal,58000,Hay Point,Visakhapatnam,4500,14.1,14.7,25.14,124037465.0,Completed,2026-02-26
+VOY-2026-1046,VES-002,MV Bulk Carrier 46,Coking Coal,82000,Newcastle,Haldia,4500,14.6,34.4,15.33,107008944.0,Completed,2026-02-22
+VOY-2026-1047,VES-003,MV Bulk Carrier 47,Coking Coal,150000,Hay Point,Visakhapatnam,4500,14.3,17.0,21.38,270101963.0,Completed,2026-02-18
+VOY-2026-1048,VES-004,MV Bulk Carrier 48,Iron Ore,150000,Richards Bay,Visakhapatnam,4800,15.8,6.6,22.09,278161261.0,Completed,2026-02-14
+VOY-2026-1049,VES-005,MV Bulk Carrier 49,Thermal Coal,82000,Samarinda,Paradip,2200,8.4,6.3,26.25,182644949.0,Completed,2026-02-10
+VOY-2026-1050,VES-006,MV Bulk Carrier 50,Thermal Coal,58000,Richards Bay,Krishnapatnam,4800,15.4,33.0,27.22,133390284.0,Completed,2026-02-06
+VOY-2026-1051,VES-007,MV Bulk Carrier 51,Iron Ore,58000,Port Hedland,Haldia,4500,14.9,13.9,31.54,154907326.0,Completed,2026-02-02
+VOY-2026-1052,VES-008,MV Bulk Carrier 52,Limestone,82000,Newcastle,Paradip,4500,15.6,12.2,20.62,142347934.0,Completed,2026-01-29
+VOY-2026-1053,VES-009,MV Bulk Carrier 53,Iron Ore,58000,Port Hedland,Krishnapatnam,4500,14.1,8.7,16.28,82542649.0,Completed,2026-01-25
+VOY-2026-1054,VES-010,MV Bulk Carrier 54,Thermal Coal,150000,Tubarao,Paradip,11500,37.0,13.9,16.7,210439105.0,Completed,2026-01-21
+VOY-2026-1055,VES-011,MV Bulk Carrier 55,Iron Ore,150000,Newcastle,Dhamra,4500,14.2,28.2,29.47,371572376.0,Completed,2026-01-17
+VOY-2026-1056,VES-012,MV Bulk Carrier 56,Iron Ore,75000,Hay Point,Paradip,4500,15.7,34.7,29.93,188593104.0,Completed,2026-01-13
+VOY-2026-1057,VES-013,MV Bulk Carrier 57,Thermal Coal,82000,Hay Point,Visakhapatnam,4500,15.7,14.2,26.73,185359115.0,Completed,2026-01-09
+VOY-2026-1058,VES-014,MV Bulk Carrier 58,Limestone,180000,Tubarao,Paradip,11500,37.9,7.8,16.76,255128080.0,Completed,2026-01-05
+VOY-2026-1059,VES-015,MV Bulk Carrier 59,Limestone,150000,Richards Bay,Haldia,4800,16.1,16.8,29.66,373906851.0,Completed,2026-01-01
+VOY-2026-1060,VES-001,MV Bulk Carrier 60,Coking Coal,75000,Samarinda,Haldia,2200,8.1,7.4,26.13,164696331.0,Completed,2025-12-28
+VOY-2026-1061,VES-002,MV Bulk Carrier 61,Coking Coal,82000,Tubarao,Dhamra,11500,36.3,24.5,26.25,181403231.0,Completed,2025-12-24
+VOY-2026-1062,VES-003,MV Bulk Carrier 62,Thermal Coal,58000,Tubarao,Haldia,11500,38.0,32.8,15.93,80617216.0,Completed,2025-12-20
+VOY-2026-1063,VES-004,MV Bulk Carrier 63,Coking Coal,82000,Richards Bay,Haldia,4800,15.8,8.2,20.45,142175385.0,Completed,2025-12-16
+VOY-2026-1064,VES-005,MV Bulk Carrier 64,Thermal Coal,180000,Port Hedland,Krishnapatnam,4500,15.5,18.1,16.34,247452167.0,Completed,2025-12-12
+VOY-2026-1065,VES-006,MV Bulk Carrier 65,Limestone,150000,Port Hedland,Haldia,4500,14.4,20.9,16.74,211650016.0,Completed,2025-12-08
+VOY-2026-1066,VES-007,MV Bulk Carrier 66,Iron Ore,58000,Port Hedland,Krishnapatnam,4500,14.4,32.7,18.52,93169703.0,Completed,2025-12-04
+VOY-2026-1067,VES-008,MV Bulk Carrier 67,Thermal Coal,58000,Newcastle,Visakhapatnam,4500,14.9,16.0,25.2,125462774.0,Completed,2025-11-30
+VOY-2026-1068,VES-009,MV Bulk Carrier 68,Thermal Coal,75000,Tubarao,Haldia,11500,38.0,12.7,21.04,134874984.0,Completed,2025-11-26
+VOY-2026-1069,VES-010,MV Bulk Carrier 69,Thermal Coal,82000,Richards Bay,Krishnapatnam,4800,15.4,32.9,17.39,122506908.0,Completed,2025-11-22
+VOY-2026-1070,VES-011,MV Bulk Carrier 70,Limestone,82000,Port Hedland,Dhamra,4500,14.3,33.9,18.67,131541682.0,Completed,2025-11-18
+VOY-2026-1071,VES-012,MV Bulk Carrier 71,Coking Coal,58000,Tubarao,Dhamra,11500,37.5,33.8,17.09,86946523.0,Completed,2025-11-14
+VOY-2026-1072,VES-013,MV Bulk Carrier 72,Limestone,58000,Tubarao,Krishnapatnam,11500,33.9,21.0,27.52,136140959.0,Completed,2025-11-10
+VOY-2026-1073,VES-014,MV Bulk Carrier 73,Limestone,58000,Richards Bay,Haldia,4800,15.6,33.3,17.95,90857032.0,Completed,2025-11-06
+VOY-2026-1074,VES-015,MV Bulk Carrier 74,Iron Ore,82000,Samarinda,Krishnapatnam,2200,7.6,32.4,31.65,220157631.0,Completed,2025-11-02
+VOY-2026-1075,VES-001,MV Bulk Carrier 75,Coking Coal,180000,Newcastle,Haldia,4500,14.9,19.6,17.35,263016573.0,Completed,2025-10-29
+VOY-2026-1076,VES-002,MV Bulk Carrier 76,Thermal Coal,180000,Tubarao,Krishnapatnam,11500,35.1,34.1,18.42,279067303.0,Completed,2025-10-25
+VOY-2026-1077,VES-003,MV Bulk Carrier 77,Thermal Coal,180000,Tubarao,Dhamra,11500,34.0,27.3,23.57,356218736.0,Completed,2025-10-21
+VOY-2026-1078,VES-004,MV Bulk Carrier 78,Thermal Coal,82000,Tubarao,Visakhapatnam,11500,35.2,23.5,26.46,184768358.0,Completed,2025-10-17
+VOY-2026-1079,VES-005,MV Bulk Carrier 79,Thermal Coal,150000,Samarinda,Visakhapatnam,2200,7.2,10.4,18.4,233330555.0,Completed,2025-10-13
+VOY-2026-1080,VES-006,MV Bulk Carrier 80,Coking Coal,180000,Newcastle,Dhamra,4500,14.8,29.5,27.81,417578319.0,Completed,2025-10-09
+VOY-2026-1081,VES-007,MV Bulk Carrier 81,Limestone,58000,Port Hedland,Krishnapatnam,4500,14.7,31.9,21.61,107563307.0,Completed,2025-10-05
+VOY-2026-1082,VES-008,MV Bulk Carrier 82,Thermal Coal,75000,Tubarao,Visakhapatnam,11500,34.4,34.7,31.42,197750907.0,Completed,2025-10-01
+VOY-2026-1083,VES-009,MV Bulk Carrier 83,Thermal Coal,180000,Hay Point,Krishnapatnam,4500,14.9,19.3,30.5,459783887.0,Completed,2025-09-27
+VOY-2026-1084,VES-010,MV Bulk Carrier 84,Thermal Coal,180000,Richards Bay,Krishnapatnam,4800,15.0,27.7,20.0,301332278.0,Completed,2025-09-23
+VOY-2026-1085,VES-011,MV Bulk Carrier 85,Iron Ore,75000,Hay Point,Paradip,4500,14.0,7.2,24.46,154653700.0,Completed,2025-09-19
+VOY-2026-1086,VES-012,MV Bulk Carrier 86,Thermal Coal,75000,Port Hedland,Dhamra,4500,15.6,7.2,25.15,160879733.0,Completed,2025-09-15
+VOY-2026-1087,VES-013,MV Bulk Carrier 87,Thermal Coal,58000,Samarinda,Krishnapatnam,2200,7.2,27.2,18.74,92765967.0,Completed,2025-09-11
+VOY-2026-1088,VES-014,MV Bulk Carrier 88,Iron Ore,180000,Richards Bay,Paradip,4800,16.0,8.8,30.02,452488803.0,Completed,2025-09-07
+VOY-2026-1089,VES-015,MV Bulk Carrier 89,Thermal Coal,58000,Newcastle,Dhamra,4500,15.7,21.9,29.0,144549400.0,Completed,2025-09-03
+VOY-2026-1090,VES-001,MV Bulk Carrier 90,Iron Ore,58000,Port Hedland,Dhamra,4500,15.6,24.4,19.15,94307732.0,Completed,2025-08-30
+VOY-2026-1091,VES-002,MV Bulk Carrier 91,Thermal Coal,58000,Samarinda,Visakhapatnam,2200,8.1,14.5,28.98,142634594.0,Completed,2025-08-26
+VOY-2026-1092,VES-003,MV Bulk Carrier 92,Limestone,150000,Samarinda,Visakhapatnam,2200,8.3,15.6,31.12,389946184.0,Completed,2025-08-22
+VOY-2026-1093,VES-004,MV Bulk Carrier 93,Iron Ore,82000,Tubarao,Visakhapatnam,11500,37.4,12.4,29.21,201419999.0,Completed,2025-08-18
+VOY-2026-1094,VES-005,MV Bulk Carrier 94,Limestone,75000,Tubarao,Visakhapatnam,11500,34.7,19.8,15.64,99578744.0,Completed,2025-08-14
+VOY-2026-1095,VES-006,MV Bulk Carrier 95,Coking Coal,82000,Newcastle,Krishnapatnam,4500,16.0,33.3,21.6,150900252.0,Completed,2025-08-10
+VOY-2026-1096,VES-007,MV Bulk Carrier 96,Limestone,58000,Newcastle,Visakhapatnam,4500,14.5,6.2,16.08,81646973.0,Completed,2025-08-06
+VOY-2026-1097,VES-008,MV Bulk Carrier 97,Iron Ore,75000,Tubarao,Visakhapatnam,11500,36.7,14.7,25.31,160399302.0,Completed,2025-08-02
+VOY-2026-1098,VES-009,MV Bulk Carrier 98,Limestone,180000,Samarinda,Haldia,2200,7.0,10.7,17.32,261933778.0,Completed,2025-07-29
+VOY-2026-1099,VES-010,MV Bulk Carrier 99,Thermal Coal,75000,Tubarao,Paradip,11500,37.5,35.0,31.28,196751451.0,Completed,2025-07-25
+VOY-2026-1100,VES-011,MV Bulk Carrier 100,Coking Coal,150000,Port Hedland,Visakhapatnam,4500,15.8,22.1,20.18,255485890.0,Completed,2025-07-21
+VOY-2026-1101,VES-012,MV Bulk Carrier 101,Thermal Coal,180000,Hay Point,Haldia,4500,14.8,10.3,18.75,284629245.0,Completed,2025-07-17
+VOY-2026-1102,VES-013,MV Bulk Carrier 102,Coking Coal,58000,Port Hedland,Paradip,4500,14.7,7.6,22.84,113600754.0,Completed,2025-07-13
+VOY-2026-1103,VES-014,MV Bulk Carrier 103,Thermal Coal,75000,Tubarao,Visakhapatnam,11500,36.6,23.4,21.07,135174637.0,Completed,2025-07-09
+VOY-2026-1104,VES-015,MV Bulk Carrier 104,Coking Coal,82000,Port Hedland,Dhamra,4500,15.3,15.5,20.58,144045747.0,Completed,2025-07-05
+VOY-2026-1105,VES-001,MV Bulk Carrier 105,Coking Coal,150000,Richards Bay,Krishnapatnam,4800,15.7,18.8,20.32,257340980.0,Completed,2025-07-01
+VOY-2026-1106,VES-002,MV Bulk Carrier 106,Limestone,82000,Newcastle,Dhamra,4500,15.8,32.3,22.57,157935721.0,Completed,2025-06-27
+VOY-2026-1107,VES-003,MV Bulk Carrier 107,Limestone,180000,Richards Bay,Visakhapatnam,4800,16.5,31.3,30.15,453030296.0,Completed,2025-06-23
+VOY-2026-1108,VES-004,MV Bulk Carrier 108,Iron Ore,58000,Tubarao,Visakhapatnam,11500,35.2,24.9,24.84,123887361.0,Completed,2025-06-19
+VOY-2026-1109,VES-005,MV Bulk Carrier 109,Coking Coal,180000,Port Hedland,Krishnapatnam,4500,15.8,22.2,21.22,319696720.0,Completed,2025-06-15
+VOY-2026-1110,VES-006,MV Bulk Carrier 110,Thermal Coal,150000,Hay Point,Haldia,4500,14.3,16.9,26.27,331605446.0,Completed,2025-06-11
+VOY-2026-1111,VES-007,MV Bulk Carrier 111,Coking Coal,180000,Richards Bay,Paradip,4800,15.4,34.5,27.51,414449910.0,Completed,2025-06-07
+VOY-2026-1112,VES-008,MV Bulk Carrier 112,Thermal Coal,180000,Port Hedland,Paradip,4500,14.1,13.9,15.73,237626522.0,Completed,2025-06-03
+VOY-2026-1113,VES-009,MV Bulk Carrier 113,Thermal Coal,75000,Samarinda,Haldia,2200,8.2,7.2,16.75,109174074.0,Completed,2025-05-30
+VOY-2026-1114,VES-010,MV Bulk Carrier 114,Thermal Coal,82000,Tubarao,Dhamra,11500,35.9,17.3,21.21,148315270.0,Completed,2025-05-26
+VOY-2026-1115,VES-011,MV Bulk Carrier 115,Iron Ore,75000,Richards Bay,Dhamra,4800,16.6,21.5,28.89,182875347.0,Completed,2025-05-22
+VOY-2026-1116,VES-012,MV Bulk Carrier 116,Limestone,150000,Richards Bay,Visakhapatnam,4800,15.3,11.0,23.75,298529929.0,Completed,2025-05-18
+VOY-2026-1117,VES-013,MV Bulk Carrier 117,Coking Coal,180000,Hay Point,Paradip,4500,15.4,9.5,22.05,332417674.0,Completed,2025-05-14
+VOY-2026-1118,VES-014,MV Bulk Carrier 118,Iron Ore,82000,Samarinda,Haldia,2200,8.1,25.4,15.38,106805713.0,Completed,2025-05-10
+VOY-2026-1119,VES-015,MV Bulk Carrier 119,Coking Coal,75000,Hay Point,Krishnapatnam,4500,15.7,7.7,30.68,194532922.0,Completed,2025-05-06
+VOY-2026-1120,VES-001,MV Bulk Carrier 120,Limestone,75000,Richards Bay,Krishnapatnam,4800,16.1,27.8,31.1,196247280.0,Completed,2025-05-02
+VOY-2026-1121,VES-002,MV Bulk Carrier 121,Limestone,58000,Samarinda,Paradip,2200,8.0,10.3,28.95,141910952.0,Completed,2025-04-28
+VOY-2026-1122,VES-003,MV Bulk Carrier 122,Thermal Coal,82000,Hay Point,Dhamra,4500,14.4,8.1,21.55,148995010.0,Completed,2025-04-24
+VOY-2026-1123,VES-004,MV Bulk Carrier 123,Coking Coal,180000,Richards Bay,Krishnapatnam,4800,16.0,24.2,23.09,348808845.0,Completed,2025-04-20
+VOY-2026-1124,VES-005,MV Bulk Carrier 124,Iron Ore,58000,Richards Bay,Krishnapatnam,4800,14.8,25.8,24.17,118357981.0,Completed,2025-04-16
+VOY-2026-1125,VES-006,MV Bulk Carrier 125,Limestone,180000,Richards Bay,Haldia,4800,15.3,21.9,30.95,465839370.0,Completed,2025-04-12
+VOY-2026-1126,VES-007,MV Bulk Carrier 126,Limestone,58000,Newcastle,Krishnapatnam,4500,15.1,31.1,16.66,82602889.0,Completed,2025-04-08
+VOY-2026-1127,VES-008,MV Bulk Carrier 127,Limestone,180000,Hay Point,Visakhapatnam,4500,15.8,18.3,15.09,229675537.0,Completed,2025-04-04
+VOY-2026-1128,VES-009,MV Bulk Carrier 128,Iron Ore,75000,Richards Bay,Krishnapatnam,4800,15.7,25.6,21.95,138958500.0,Completed,2025-03-31
+VOY-2026-1129,VES-010,MV Bulk Carrier 129,Limestone,75000,Tubarao,Krishnapatnam,11500,37.6,18.7,25.4,163090396.0,Completed,2025-03-27
+VOY-2026-1130,VES-011,MV Bulk Carrier 130,Limestone,58000,Hay Point,Haldia,4500,14.9,11.4,24.43,120367353.0,Completed,2025-03-23
+VOY-2026-1131,VES-012,MV Bulk Carrier 131,Thermal Coal,150000,Richards Bay,Dhamra,4800,15.2,10.1,27.71,348329285.0,Completed,2025-03-19
+VOY-2026-1132,VES-013,MV Bulk Carrier 132,Coking Coal,58000,Port Hedland,Paradip,4500,15.3,30.0,26.85,133376270.0,Completed,2025-03-15
+VOY-2026-1133,VES-014,MV Bulk Carrier 133,Coking Coal,58000,Samarinda,Visakhapatnam,2200,8.2,20.2,22.4,110025841.0,Completed,2025-03-11
+VOY-2026-1134,VES-015,MV Bulk Carrier 134,Coking Coal,82000,Newcastle,Visakhapatnam,4500,15.1,33.9,25.44,176707657.0,Completed,2025-03-07
+VOY-2026-1135,VES-001,MV Bulk Carrier 135,Iron Ore,58000,Hay Point,Haldia,4500,14.5,25.7,19.86,97706868.0,Completed,2025-03-03
+VOY-2026-1136,VES-002,MV Bulk Carrier 136,Coking Coal,180000,Richards Bay,Paradip,4800,15.3,25.7,16.48,249039011.0,Completed,2025-02-27
+VOY-2026-1137,VES-003,MV Bulk Carrier 137,Limestone,150000,Newcastle,Haldia,4500,14.6,6.5,30.63,384992278.0,Completed,2025-02-23
+VOY-2026-1138,VES-004,MV Bulk Carrier 138,Thermal Coal,82000,Newcastle,Dhamra,4500,16.0,19.6,24.77,171367943.0,Completed,2025-02-19
+VOY-2026-1139,VES-005,MV Bulk Carrier 139,Limestone,150000,Richards Bay,Visakhapatnam,4800,15.7,16.2,28.65,361562628.0,Completed,2025-02-15
+VOY-2026-1140,VES-006,MV Bulk Carrier 140,Thermal Coal,75000,Tubarao,Haldia,11500,34.5,29.1,31.34,198468045.0,Completed,2025-02-11
+VOY-2026-1141,VES-007,MV Bulk Carrier 141,Limestone,180000,Richards Bay,Visakhapatnam,4800,15.5,17.5,26.51,398749190.0,Completed,2025-02-07
+VOY-2026-1142,VES-008,MV Bulk Carrier 142,Thermal Coal,180000,Samarinda,Dhamra,2200,7.2,31.0,19.88,300203992.0,Completed,2025-02-03
+VOY-2026-1143,VES-009,MV Bulk Carrier 143,Thermal Coal,58000,Port Hedland,Krishnapatnam,4500,14.2,16.6,19.57,99051334.0,Completed,2025-01-30
+VOY-2026-1144,VES-010,MV Bulk Carrier 144,Coking Coal,180000,Samarinda,Paradip,2200,7.7,14.0,18.45,278392086.0,Completed,2025-01-26
+VOY-2026-1145,VES-011,MV Bulk Carrier 145,Thermal Coal,82000,Hay Point,Visakhapatnam,4500,14.8,34.7,25.44,177437373.0,Completed,2025-01-22
+VOY-2026-1146,VES-012,MV Bulk Carrier 146,Iron Ore,58000,Samarinda,Dhamra,2200,7.8,35.6,29.77,146785196.0,Completed,2025-01-18
+VOY-2026-1147,VES-013,MV Bulk Carrier 147,Thermal Coal,82000,Samarinda,Paradip,2200,7.2,21.8,23.13,161045084.0,Completed,2025-01-14
+VOY-2026-1148,VES-014,MV Bulk Carrier 148,Thermal Coal,75000,Samarinda,Paradip,2200,7.4,21.5,26.72,168367460.0,Completed,2025-01-10
+VOY-2026-1149,VES-015,MV Bulk Carrier 149,Coking Coal,180000,Samarinda,Krishnapatnam,2200,8.0,31.9,24.33,366201617.0,Completed,2025-01-06
+VOY-2026-1150,VES-001,MV Bulk Carrier 150,Limestone,75000,Richards Bay,Dhamra,4800,16.0,12.3,21.21,135234028.0,Completed,2025-01-02
