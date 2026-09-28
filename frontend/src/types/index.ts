@@ -102,7 +102,7 @@ export interface CongestionIdleOutput {
 
 export interface RiskOutput {
   overall_risk_score: number;
-  risk_level: 'LOW' | 'MEDIUM' | 'HIGH';
+  risk_level: 'LOW' | 'MEDIUM' | 'MEDIUM-HIGH' | 'HIGH';
   market_risk: number;
   port_risk: number;
   weather_risk: number;

@@ -1,5 +1,5 @@
 import axios from 'axios';
-import type { CargoRequest, FinalRecommendationOutput, AlertItem } from '../types';
+import type { CargoRequest, FinalRecommendationOutput, AlertItem, VesselRecommendationOutput, PortCompatibilityCheck } from '../types';
 
 const API_BASE = import.meta.env.VITE_API_BASE_URL 
   ? (import.meta.env.VITE_API_BASE_URL.endsWith('/api') ? import.meta.env.VITE_API_BASE_URL : `${import.meta.env.VITE_API_BASE_URL}/api`)
@@ -174,7 +174,7 @@ export function generateFallbackAnalysis(cargo: CargoRequest): FinalRecommendati
   ];
 
   // Evaluate compatibility for all vessels against destination port
-  const evaluatedVessels = candidateVessels.map((v) => {
+  const evaluatedVessels: VesselRecommendationOutput[] = candidateVessels.map((v) => {
     const rejectionReasons: string[] = [];
     if (v.draft_m > destLimits.max_draft_m) {
       rejectionReasons.push(`Vessel Draft (${v.draft_m}m) exceeds destination port ${cargo.destination_port} Maximum Draft (${destLimits.max_draft_m}m) by ${(v.draft_m - destLimits.max_draft_m).toFixed(1)}m.`);
@@ -196,7 +196,7 @@ export function generateFallbackAnalysis(cargo: CargoRequest): FinalRecommendati
       idle_risk_score: 92.0,
       port_compatibility: {
         is_compatible: isCompatible,
-        status: isCompatible ? 'COMPATIBLE' : 'NOT COMPATIBLE',
+        status: (isCompatible ? 'COMPATIBLE' : 'NOT COMPATIBLE') as PortCompatibilityCheck['status'],
         max_draft_m: destLimits.max_draft_m,
         vessel_draft_m: v.draft_m,
         draft_exceeded_m: Math.max(0, Number((v.draft_m - destLimits.max_draft_m).toFixed(1))),
