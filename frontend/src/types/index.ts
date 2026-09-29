@@ -171,3 +171,49 @@ export interface AlertItem {
   timestamp: string;
   read?: boolean;
 }
+
+export type VoyageStatus = 
+  | 'PLANNED' 
+  | 'TRACKING' 
+  | 'UNDERWAY' 
+  | 'DELAYED' 
+  | 'NEAR DESTINATION' 
+  | 'ARRIVED' 
+  | 'DATA DELAYED' 
+  | 'COMPLETED';
+
+export interface TrackingPositionPoint {
+  lat: number;
+  lon: number;
+  timestamp: string;
+  speed_knots: number;
+}
+
+export interface VesselVoyageTrackingState {
+  is_tracking: boolean;
+  is_live: boolean; // true = Live AIS, false = Simulated Demo Tracking
+  vessel_id: string;
+  vessel_name: string;
+  vessel_type: string;
+  imo_number: number;
+  mmsi_number: number;
+  origin_port: string;
+  destination_port: string;
+  origin_coords: [number, number];
+  destination_coords: [number, number];
+  current_lat: number;
+  current_lon: number;
+  current_speed_knots: number;
+  heading_degrees: number;
+  status: VoyageStatus;
+  progress_pct: number;
+  distance_travelled_nm: number;
+  distance_remaining_nm: number;
+  total_distance_nm: number;
+  eta_formatted: string;
+  last_updated_seconds_ago: number;
+  last_update_timestamp: string;
+  history: [number, number][];
+  auto_follow: boolean;
+  geofence_radius_nm: number;
+}
